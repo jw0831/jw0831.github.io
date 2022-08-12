@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: title
+pose: git tools
 
 ---
 
