@@ -8,4 +8,4 @@ pose: git tools
 - [tortoisegit](https://tortoisegit.org/)
 - [kraken](https://www.gitkraken.com/)
 
-
+[git reviews](https://www.hostinger.com/tutorials/best-git-gui-clients/)
