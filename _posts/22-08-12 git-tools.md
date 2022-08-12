@@ -4,5 +4,5 @@ pose: git tools
 
 ---
 
-https://www.sourcetreeapp.com/
-https://tortoisegit.org/
+[sourcetree](https://www.sourcetreeapp.com/)
+[tortoisegit](https://tortoisegit.org/)
