@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Beginnig of Github Blog"
+title:  "Beginnig of Github Blog"
 ---
+
 
 # A first step
 - 커스터마이징을 해야한다는 배움의 장점과, 깃헙 블로그에 대부분의 기능을 추가할 수 있다고 하여 learning curve를 감수하고 시작
